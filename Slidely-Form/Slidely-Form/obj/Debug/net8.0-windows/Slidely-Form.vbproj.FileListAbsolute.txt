@@ -1,0 +1,64 @@
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.exe
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.deps.json
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.runtimeconfig.json
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.dll
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.pdb
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.Form1.resources
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.SubmissionForm.resources
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.GenerateResource.cache
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.GeneratedMSBuildEditorConfig.editorconfig
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.AssemblyInfoInputs.cache
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.AssemblyInfo.vb
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.CoreCompileInputs.cache
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.dll
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\refint\Slidely-Form.dll
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.pdb
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.genruntimeconfig.cache
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\ref\Slidely-Form.dll
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.AssemblyReference.cache
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-.10075CD5.Up2Date
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.ViewSubmission.resources
+E:\Slidely Intership\frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.sourcelink.json
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.exe
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.deps.json
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.runtimeconfig.json
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.dll
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.pdb
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.AssemblyReference.cache
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.Form1.resources
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.GenerateResource.cache
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.AssemblyInfoInputs.cache
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.AssemblyInfo.vb
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.CoreCompileInputs.cache
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-.10075CD5.Up2Date
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.dll
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\refint\Slidely-Form.dll
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.pdb
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.genruntimeconfig.cache
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\ref\Slidely-Form.dll
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.sufor.resources
+C:\Slidely AI Github\slidely-form-frontend-master\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.vifor.resources
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.exe
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.deps.json
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.runtimeconfig.json
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.dll
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Slidely-Form.pdb
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.AssemblyReference.cache
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.Form1.resources
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.sufor.resources
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely_Form.vifor.resources
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.GenerateResource.cache
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.AssemblyInfoInputs.cache
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.AssemblyInfo.vb
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.vbproj.CoreCompileInputs.cache
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-.10075CD5.Up2Date
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.dll
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\refint\Slidely-Form.dll
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.pdb
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\Slidely-Form.genruntimeconfig.cache
+C:\Slidely AI Github\slidely ai frontend\Slidely-Form\Slidely-Form\obj\Debug\net8.0-windows\ref\Slidely-Form.dll
