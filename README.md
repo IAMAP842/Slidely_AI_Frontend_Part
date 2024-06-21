@@ -21,6 +21,7 @@ This project is developed as a Windows Desktop Application using Visual Basic in
 - Create New Submission: Enter details including Name, Email, Phone Number, and GitHub repo link. Use the stopwatch to track time spent on filling out the form.
 - View Submissions: Browse through previously submitted forms using Next and Previous buttons.
 - Keyboard Shortcuts: Use keyboard shortcuts for form submission and navigation.
+- It also has option for deletion of submitted forms and option for editing submitted form.
 
  Getting Started
 
