@@ -51,7 +51,11 @@ This project is developed as a Windows Desktop Application using Visual Basic in
 2. Navigate through the submissions using the Previous and Next buttons.
 
  Keyboard Shortcuts
+- Ctrl + N: To create a new submission first of all
+- Ctrl + V: To view submissions
 - Ctrl + S: Submit the form on the Create New Submission page.
 - Ctrl + N: Navigate to the next submission on the View Submissions page.
 - Ctrl + P: Navigate to the previous submission on the View Submissions page.
-
+- Ctrl + T: To Toggle the Stopwatch
+- Ctrl + D: To delete a submission
+- Ctrl + E: To edit a submission
